@@ -1,1 +1,1 @@
-<img src="Data/Banner-Snake.png"  width="900" height="450" />
+<img src="Data/Banner-Snake.png"  width="900" height="350" />
