@@ -11,5 +11,5 @@
 <p>Well this is my game file: </p> 
 
   <a href="">
-    <img src="Data/Descarga.png" alt="Descargas" width="50"/>
+    <img src="Data/Descarga.png" alt="Descargas" width="100"/>
   </a>
