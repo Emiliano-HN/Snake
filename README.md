@@ -9,3 +9,7 @@
 <img src="Data/Perder.png" width="350" height="350" />
 
 <p>Well this is my game file: </p> 
+
+  <a href="">
+    <img src="Data/Descarga.png" alt="Descargas" width="50"/>
+  </a>
